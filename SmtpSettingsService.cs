@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace MailClient
+namespace GoodBearMailClient
 {
     public class SmtpSettingsService : ISmtpSettingsService
     {
@@ -12,7 +12,7 @@ namespace MailClient
         {
             _smtpSettingsConfig = smtpSettings;
         }
-        
+
         public ISmtpSettings SmtpSettingsConfig { get { return _smtpSettingsConfig; } }
 
     }

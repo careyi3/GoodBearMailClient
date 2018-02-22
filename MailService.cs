@@ -2,7 +2,7 @@
 using System.Net.Mail;
 using System.Threading.Tasks;
 
-namespace MailClient
+namespace GoodBearMailClient
 {
     public class MailService : IMailService
     {

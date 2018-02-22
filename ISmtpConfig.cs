@@ -1,6 +1,6 @@
 ﻿using System.Net.Mail;
 
-namespace MailClient
+namespace GoodBearMailClient
 {
     public interface ISmtpConfig
     {

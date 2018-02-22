@@ -29,6 +29,5 @@
 
 .vscode/
 packages/
-GoodBearMailClient/bin/
-GoodBearMailClient/obj/
-
+bin/
+obj/

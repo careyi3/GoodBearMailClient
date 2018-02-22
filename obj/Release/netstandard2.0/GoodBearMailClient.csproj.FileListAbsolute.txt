@@ -1,0 +1,8 @@
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/bin/Release/netstandard2.0/GoodBearMailClient.deps.json
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/bin/Release/netstandard2.0/GoodBearMailClient.dll
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/bin/Release/netstandard2.0/GoodBearMailClient.pdb
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/obj/Release/netstandard2.0/GoodBearMailClient.csproj.CoreCompileInputs.cache
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/obj/Release/netstandard2.0/GoodBearMailClient.AssemblyInfoInputs.cache
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/obj/Release/netstandard2.0/GoodBearMailClient.AssemblyInfo.cs
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/obj/Release/netstandard2.0/GoodBearMailClient.dll
+/Users/iancarey/devjunk/dotnetcore/GoodBearMailClient/obj/Release/netstandard2.0/GoodBearMailClient.pdb

@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>GoodBearMailClient</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <title>GoodBearMailClient</title>
     <authors>Ian Carey</authors>
     <owners>Ian Carey</owners>
@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/careyi3/GoodBearMailClient/blob/master/README.md</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A simple .NET mail client</description>
-    <releaseNotes>This is the inital release of GoodBearMailClient.</releaseNotes>
+    <releaseNotes>Changed namespace.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>GoodBearMailClient GoodBear Mail</tags>
   </metadata>
